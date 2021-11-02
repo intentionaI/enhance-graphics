@@ -4,6 +4,6 @@
 
 Execute file#2 (darkfix.lua)
 
-# Too much saturation?
+# No grass on grass terain?
 
-Execute file#3 (satfix.lua)
+Execute file#3 (grassfix.lua)
